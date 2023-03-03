@@ -1,0 +1,8 @@
+.cart-div{
+    position: absolute;
+    width: 30vw;
+    height: 100vh;
+    background-color: red;
+    top:0;
+    right:-100%;
+}
